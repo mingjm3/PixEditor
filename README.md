@@ -20,5 +20,5 @@
 17	对图片中人脸换脸
 
 
-需要的python依赖包在requirement.txt内
-入口.py为PixEditor.py
+<br/>需要的python依赖包在requirements.txt内中有说明
+<br/>入口.py为PixEditor.py
