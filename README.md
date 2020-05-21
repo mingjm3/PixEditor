@@ -18,3 +18,7 @@
 15	贴图功能
 16	对图片中人脸美颜
 17	对图片中人脸换脸
+
+
+需要的python依赖包在requirement.txt内
+入口.py为PixEditor.py
