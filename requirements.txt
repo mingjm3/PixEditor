@@ -136,7 +136,7 @@ opencv-python==4.2.0.34
 openpyxl==3.0.0
 packaging==19.2
 paddlehub==1.6.2
-paddlepaddle==1.8.0
+paddlepaddle==2.4.0
 pandas==0.25.1
 pandocfilters==1.4.2
 parso==0.5.1
